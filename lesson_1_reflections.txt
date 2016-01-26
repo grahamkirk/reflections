@@ -1,0 +1,24 @@
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+So that if you get off track you can back out or undo changes to a point that worked
+You can try refactoring code and making big changes without fear of having to remember what changes you are making as all of that is stored in the history.
+
+Reflect: Manual Commits
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Pros: As the programmer you have control of when a change is complete enough to commit that way it is easier to go back through chunks of work instead of sifting through automatically saved changes.
+Cons: The downside is you might forget to commit and end up getting too far down a path.  When you realize that you have to roll-back, it might be a long ways back.
+
+Reflect: Multi-File Commits
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Because when programming an application there is more likely going to be cross-file changes that take place whereas when writing documents it is unlikely that a change will affect more than one document at a time.
+
+Reflect: Using Git to View History
+How can you use the commands git log and git diff to view the history of files?
+You can list all of the commits using git log and then once you have found the commit you are looking for you can use git diff to compare against the previous version (note: the previous version is the version below)
+
+Reflect: Confidence from Version Control
+How might using version control make you more confident to make changes that could break something?
+By saving your "working state" and providing you with a tool so you can always go back in time to when it worked to identify where things went wrong.
+
+Reflect: How Do You Want to Use Git?
+Now that you have your workspace set up, what do you want to try using Git for?
+I would like to manage all of my code projects (Android, Web, etc) in Git.
