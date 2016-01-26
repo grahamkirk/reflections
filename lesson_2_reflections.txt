@@ -1,0 +1,8 @@
+Reflect: Initializing a Repository
+What happens when you initialize a repository? Why do you need to do it?
+It adds the .git metadata directory into the folder and creating the repository.  This is needed to get git ready for tracking changes within that directory.
+
+Reflect: Staging Area
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area allows individual files to be added into a single commit allowing concepts to be separated into different logical commits.
+The staging area is different from the working directory because the working directory contains all active files. The repository only contains the committed files.
