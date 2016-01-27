@@ -18,3 +18,11 @@ Branches are useful when you want to go and explore different paths of developme
 Reflect: Visualizing with Diagrams
 How do the diagrams help you visualize the branch structure?
 They show where the commits are on the master and branch and allow you to trace back to the origin of each branch
+
+Reflect: Merging Two Branches
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The two branches become one.  All of the commits from the branch get mixed in with the commits from the other.  We draw the diagram to show that the new branch can access all of the commits from either branch.
+
+Reflect: Automatic vs. Manual Merging
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic mapping helps save time by merging items that have been added or removed where there is no conflict.  If you had to do merges manually that would be lots of retyping.
