@@ -6,3 +6,13 @@ When you are working as a part of a team
 When you are working from multiple fixed computers
 When you want to preserve your code in the cloud for safe keeping
 When you want to share you code with the WORLD!
+
+Reflect: Manual vs. automatic pull
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Because you may be working and don't want your files automatically changing to older versions on remote.
+
+Reflect: Forks, Clones, and Branches
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Branches - Occur on the local machine in the same repository
+Forks - Occur in GitHub by creating a copy of another person's repository
+Clones - From one Repository to another where both are on local machine or the source repository is on GitHub and the destination is local
