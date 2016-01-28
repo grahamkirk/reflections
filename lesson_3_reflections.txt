@@ -1,1 +1,8 @@
 Adding a file directly to GitHub Repository as the first reflection of Lesson 3
+
+Reflect: Using a remote repository
+When would you want to use a remote repository rather than keeping all your work local?
+When you are working as a part of a team
+When you are working from multiple fixed computers
+When you want to preserve your code in the cloud for safe keeping
+When you want to share you code with the WORLD!
